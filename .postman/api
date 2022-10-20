@@ -4,6 +4,7 @@ id = 83deaa27-5b46-4015-b905-143413a6ac1b
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"23449146-ba47e024-3731-46b1-b857-b3f52461d9a2","path":"blogTask.json","metaData":{}}
 
 [relations.collections.metaData]
 
